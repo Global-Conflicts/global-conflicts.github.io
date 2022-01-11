@@ -1,0 +1,1 @@
+# global-conflicts.github.io
